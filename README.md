@@ -1,2 +1,1 @@
-# Bite-Bootstrap
 Bite-Bootstrap
